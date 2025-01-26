@@ -54,7 +54,9 @@ pip install streamlit sentence-transformers googletrans langid numpy
 ├── json_files
 │   ├── department_map.json  # Department mapping file
 │   └── categories_map.json  # Category mapping file
-└── requirements.txt       # List of dependencies
+└── dataset
+│   └── grievances_dataset.csv # Contains sample grievances for testing
+└── testing.py                 # To test the code for sample grievances
 ```
 
 ## Usage
@@ -96,6 +98,33 @@ pip install streamlit sentence-transformers googletrans langid numpy
 - **Filing a grievance in English**: 
     - Grievance: "There's a broken streetlight on Elm Street."
     - The system will directly categorize it without translation.
+
+# Grievance Filing System based on GPT-4o(Azure Open AI API Key)
+
+This is a grievance filing system using GPT-based AI for categorizing grievances and matching them with the most relevant departments from a predefined list. The system uses OpenAI's GPT model (deployed on Azure) and Langchain to process the grievance text and return the best matching department. 
+
+The system supports grievance submissions in both English and Hindi, and uses Azure's GPT API to determine the correct department for a given grievance.
+
+## Features
+
+- **Multi-language support**: Handles grievances in English and Hindi.
+- **Real-time grievance processing**: Users can submit grievances and get categorized responses immediately.
+- **Department mapping**: A comprehensive list of departments is used to match grievances.
+- **Structured JSON output**: The system outputs results in a structured JSON format, detailing the grievance, the assigned department, and any messages.
+
+## Dependencies
+
+- **OpenAI API**: For GPT-based processing.
+- **Azure OpenAI**: For deploying the GPT model.
+- **Langchain**: For managing and formatting the prompts and outputs.
+
+### Install Dependencies
+
+To install the required dependencies, run:
+
+```bash
+pip install openai langchain streamlit pandas azure-identity langchain_openai
+
 
 ## Contributing
 

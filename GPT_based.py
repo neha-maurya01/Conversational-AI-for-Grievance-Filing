@@ -3,7 +3,6 @@ import openai
 import os
 import json
 import streamlit as st
-# from data import departments
 from langchain.prompts import PromptTemplate
 from langchain_openai import AzureChatOpenAI
 from langchain_core.output_parsers import JsonOutputParser

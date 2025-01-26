@@ -122,6 +122,7 @@ prompt_1="Using the following Departments {context}, For a given Grievances {que
 class Summary(BaseModel):
     Grievance: str = Field(description="Give me the Grievances text")
     Department: str = Field(description="Give me the category of grievances")
+    GROs: str = Field(description="Give a random designation of Grievance Redressal Officer for grievances ")
     Message: str = Field(description="Grievance filed successfully! But for 'Uncategorized' departments, the message is 'Ask the right Grievance'.")
 
 class SummaryModel(BaseModel):

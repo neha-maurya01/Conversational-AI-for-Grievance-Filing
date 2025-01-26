@@ -1,0 +1,517 @@
+{
+    "Administrative Reforms and PG": [
+        "CT1",
+        "CT2",
+        "CT3",
+        "CT4"
+    ],
+    "Agriculture and Cooperation": [
+        "CT5",
+        "CT6",
+        "CT7",
+        "CT8"
+    ],
+    "Agriculture Research and Education": [
+        "CT9",
+        "CT10",
+        "CT11",
+        "CT12"
+    ],
+    "Animal Husbandry, Dairying": [
+        "CT13",
+        "CT14",
+        "CT15",
+        "CT16"
+    ],
+    "Atomic Energy": [
+        "CT17",
+        "CT18",
+        "CT19",
+        "CT20"
+    ],
+    "Ayush": [
+        "CT21",
+        "CT22",
+        "CT23",
+        "CT24",
+        "CT25",
+        "CT26"
+    ],
+    "Bio Technology": [
+        "CT27",
+        "CT28",
+        "CT29",
+        "CT30"
+    ],
+    "Central Board of Direct Taxes (Income Tax)": [
+        "CT31",
+        "CT32",
+        "CT33",
+        "CT34"
+    ],
+    "Central Board of Excise and Customs": [
+        "CT35",
+        "CT36",
+        "CT37",
+        "CT38"
+    ],
+    "Chemicals and Petrochemicals": [
+        "CT39",
+        "CT40",
+        "CT41",
+        "CT42"
+    ],
+    "Civil Aviation": [
+        "CT43",
+        "CT44",
+        "CT45",
+        "CT46"
+    ],
+    "Coal": [
+        "CT47",
+        "CT48",
+        "CT49",
+        "CT50"
+    ],
+    "Commerce": [
+        "CT51",
+        "CT52",
+        "CT53",
+        "CT54"
+    ],
+    "Consumer Affairs": [
+        "CT55",
+        "CT56",
+        "CT57",
+        "CT58"
+    ],
+    "Corporate Affairs": [
+        "CT59",
+        "CT60",
+        "CT61",
+        "CT62"
+    ],
+    "Culture": [
+        "CT63",
+        "CT64",
+        "CT65",
+        "CT66"
+    ],
+    "Defence": [
+        "CT67",
+        "CT68"
+    ],
+    "Defence Finance": [
+        "CT69",
+        "CT70",
+        "CT71",
+        "CT72"
+    ],
+    "Defence Production": [
+        "CT73",
+        "CT74",
+        "CT75",
+        "CT76"
+    ],
+    "Defence Research and Development": [
+        "CT77",
+        "CT78",
+        "CT79",
+        "CT80"
+    ],
+    "Development of North Eastern Region": [
+        "CT81",
+        "CT82"
+    ],
+    "Drinking Water and Sanitation": [
+        "CT83",
+        "CT84",
+        "CT85",
+        "CT86"
+    ],
+    "Earth Sciences": [
+        "CT87",
+        "CT88",
+        "CT89",
+        "CT90"
+    ],
+    "Economic Affairs": [
+        "CT91",
+        "CT92",
+        "CT93",
+        "CT94"
+    ],
+    "Electronics & Information Technology": [
+        "CT95",
+        "CT96",
+        "CT97",
+        "CT98"
+    ],
+    "Empowerment of Persons with Disabilities": [
+        "CT99",
+        "CT100",
+        "CT101"
+    ],
+    "Environment, Forest and Climate Change": [
+        "CT102",
+        "CT103",
+        "CT104",
+        "CT105"
+    ],
+    "Ex Servicemen Welfare": [
+        "CT106",
+        "CT107",
+        "CT108",
+        "CT109"
+    ],
+    "Expenditure": [
+        "CT110",
+        "CT111",
+        "CT112",
+        "CT113"
+    ],
+    "External Affairs": [
+        "CT114",
+        "CT115",
+        "CT116"
+    ],
+    "Fertilizers": [
+        "CT117",
+        "CT118",
+        "CT119",
+        "CT120"
+    ],
+    "Financial Services (Banking Division)": [
+        "CT121",
+        "CT122",
+        "CT123",
+        "CT124"
+    ],
+    "Financial Services (Insurance Division)": [
+        "CT125",
+        "CT126",
+        "CT127"
+    ],
+    "Financial Services (Pension Reforms)": [
+        "CT128",
+        "CT129",
+        "CT130"
+    ],
+    "Fisheries": [
+        "CT131",
+        "CT132",
+        "CT133",
+        "CT134"
+    ],
+    "Food and Public Distribution": [
+        "CT135",
+        "CT136",
+        "CT137",
+        "CT138"
+    ],
+    "Food Processing Industries": [
+        "CT139",
+        "CT140",
+        "CT141",
+        "CT142"
+    ],
+    "Health & Family Welfare": [
+        "CT143",
+        "CT144",
+        "CT145",
+        "CT146"
+    ],
+    "Health Research": [
+        "CT147",
+        "CT148",
+        "CT149",
+        "CT150"
+    ],
+    "Heavy Industry": [
+        "CT151",
+        "CT152",
+        "CT153",
+        "CT154"
+    ],
+    "Higher Education": [
+        "CT155",
+        "CT156",
+        "CT157",
+        "CT158"
+    ],
+    "Home Affairs": [
+        "CT159",
+        "CT160",
+        "CT161",
+        "CT162"
+    ],
+    "Housing and Urban Affairs": [
+        "CT163",
+        "CT164",
+        "CT165"
+    ],
+    "Industrial Policy & Promotion": [
+        "CT166",
+        "CT167",
+        "CT168",
+        "CT169"
+    ],
+    "Information and Broadcasting": [
+        "CT170",
+        "CT171",
+        "CT172",
+        "CT173"
+    ],
+    "Investment & Public Asset Management": [
+        "CT174",
+        "CT175",
+        "CT176",
+        "CT177"
+    ],
+    "Justice": [
+        "CT178",
+        "CT179",
+        "CT180",
+        "CT181"
+    ],
+    "Labour and Employment": [
+        "CT182",
+        "CT183",
+        "CT184",
+        "CT185"
+    ],
+    "Land Resources": [
+        "CT186",
+        "CT187",
+        "CT188",
+        "CT189"
+    ],
+    "Legal Affairs": [
+        "CT190",
+        "CT191",
+        "CT192",
+        "CT193"
+    ],
+    "Legislative Department": [
+        "CT194",
+        "CT195",
+        "CT196",
+        "CT197"
+    ],
+    "Micro Small and Medium Enterprises": [
+        "CT198",
+        "CT199",
+        "CT200"
+    ],
+    "Mines": [
+        "CT201",
+        "CT202",
+        "CT203",
+        "CT204"
+    ],
+    "Minority Affairs": [
+        "CT205",
+        "CT206",
+        "CT207",
+        "CT208"
+    ],
+    "New and Renewable Energy": [
+        "CT209",
+        "CT210",
+        "CT211",
+        "CT212"
+    ],
+    "NITI Aayog": [
+        "CT213",
+        "CT214",
+        "CT215",
+        "CT216"
+    ],
+    "O/o the Comptroller & Auditor General of India": [
+        "CT217",
+        "CT218",
+        "CT219"
+    ],
+    "Official Language": [
+        "CT220",
+        "CT221",
+        "CT222",
+        "CT223"
+    ],
+    "Panchayati Raj": [
+        "CT224",
+        "CT225",
+        "CT226",
+        "CT227"
+    ],
+    "Parliamentary Affairs": [
+        "CT228",
+        "CT229",
+        "CT230",
+        "CT231"
+    ],
+    "Personnel and Training": [
+        "CT232",
+        "CT233",
+        "CT234"
+    ],
+    "Petroleum and Natural Gas": [
+        "CT235",
+        "CT236",
+        "CT237",
+        "CT238"
+    ],
+    "Pharmaceutical": [
+        "CT239",
+        "CT240",
+        "CT241",
+        "CT242"
+    ],
+    "Posts": [
+        "CT243",
+        "CT244",
+        "CT245",
+        "CT246"
+    ],
+    "Power": [
+        "CT247",
+        "CT248",
+        "CT249",
+        "CT250"
+    ],
+    "Public Enterprises": [
+        "CT251",
+        "CT252",
+        "CT253",
+        "CT254"
+    ],
+    "Railways, ( Railway Board)": [
+        "CT255",
+        "CT256",
+        "CT257",
+        "CT258"
+    ],
+    "Revenue": [
+        "CT259",
+        "CT260"
+    ],
+    "Road Transport and Highways": [
+        "CT261",
+        "CT262",
+        "CT263",
+        "CT264"
+    ],
+    "Rural Development": [
+        "CT265",
+        "CT266",
+        "CT267",
+        "CT268"
+    ],
+    "School Education and Literacy": [
+        "CT269",
+        "CT270",
+        "CT271",
+        "CT272"
+    ],
+    "Science and Technology": [
+        "CT273",
+        "CT274",
+        "CT275",
+        "CT276"
+    ],
+    "Scientific & Industrial Research": [
+        "CT277",
+        "CT278",
+        "CT279"
+    ],
+    "Shipping": [
+        "CT280",
+        "CT281",
+        "CT282",
+        "CT283"
+    ],
+    "Skill Development and Entrepreneurship": [
+        "CT284",
+        "CT285",
+        "CT286",
+        "CT287"
+    ],
+    "Social Justice and Empowerment": [
+        "CT288",
+        "CT289",
+        "CT290",
+        "CT291"
+    ],
+    "Space": [
+        "CT292",
+        "CT293",
+        "CT294",
+        "CT295"
+    ],
+    "Sports": [
+        "CT296",
+        "CT297",
+        "CT298",
+        "CT299"
+    ],
+    "Statistics and Programme Implementation": [
+        "CT300",
+        "CT301",
+        "CT302",
+        "CT303"
+    ],
+    "Steel": [
+        "CT304",
+        "CT305",
+        "CT306",
+        "CT307"
+    ],
+    "Telecommunications": [
+        "CT308",
+        "CT309",
+        "CT310",
+        "CT311"
+    ],
+    "Textiles": [
+        "CT312",
+        "CT313",
+        "CT314",
+        "CT315"
+    ],
+    "Tourism": [
+        "CT316",
+        "CT317",
+        "CT318",
+        "CT319"
+    ],
+    "Tribal Affairs": [
+        "CT320",
+        "CT321",
+        "CT322",
+        "CT323"
+    ],
+    "Unique Identification Authority of India": [
+        "CT324",
+        "CT325",
+        "CT326",
+        "CT327"
+    ],
+    "Water Resources, River Development & Ganga Rejuvenation": [
+        "CT328",
+        "CT329",
+        "CT330",
+        "CT331"
+    ],
+    "Women and Child Development": [
+        "CT332",
+        "CT333",
+        "CT334",
+        "CT335"
+    ],
+    "Youth Affairs": [
+        "CT336",
+        "CT337",
+        "CT338",
+        "CT339"
+    ]
+}

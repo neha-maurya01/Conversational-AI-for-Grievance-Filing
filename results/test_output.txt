@@ -1,0 +1,76 @@
+Shortage of water supply in villages leading to crop failures.
+Agriculture and Cooperation, Risk management for crops under Crop Insurance of Agriculture and Cooperation., 0.5121374130249023
+Drinking Water and Sanitation
+--------------------------------------------------------------------
+Request for better rural electrification projects in the region.
+Rural Development, Building and improving infrastructure in rural areas, including roads, housing, and water supply under Rural Infrastructure of Rural Development., 0.6285243630409241
+Power
+--------------------------------------------------------------------
+Delays in issuing educational certificates under the Right to Education Act.
+Higher Education, Can be associated to the department of Higher Education., 0.39709529280662537
+School Education and Literacy
+--------------------------------------------------------------------
+Non-availability of life-saving medicines in government hospitals.
+Pharmaceutical, Promoting affordable access to medicines for the public under Health Access of Pharmaceutical., 0.6326848268508911
+Health & Family Welfare
+--------------------------------------------------------------------
+Non-compliance with regulations under Legal Affairs.
+Consumer Affairs, Laws and regulations to safeguard consumer rights under Consumer Protection of Consumer Affairs., 0.5741262435913086
+Legal Affairs
+--------------------------------------------------------------------
+Insufficient support for Skill Development and Entrepreneurship projects.
+Micro Small and Medium Enterprises, Providing resources and funding to small and medium-sized businesses under Entrepreneurship Support of Micro Small and Medium Enterprises., 0.549107551574707
+Skill Development and Entrepreneurship
+--------------------------------------------------------------------
+Need for better policy implementation in Defence.
+Defence Production, Promoting domestic production of defence equipment under Indigenization of Defence Production., 0.6588066816329956
+Defence
+--------------------------------------------------------------------
+Delayed resolution of issues in Revenue.
+Administrative Reforms and PG, Can be associated to the department of Administrative Reforms and PG., 0.4206632673740387
+Revenue
+--------------------------------------------------------------------
+Delayed resolution of issues in Commerce.
+Legal Affairs, Helping resolve legal disputes in governmental matters under Dispute Resolution of Legal Affairs., 0.4711986780166626
+Commerce
+--------------------------------------------------------------------
+Poor services affecting Economic Affairs beneficiaries.
+Health & Family Welfare, Initiatives to improve healthcare services for citizens under Public Health Programs of Health & Family Welfare., 0.5807043313980103
+Economic Affairs
+--------------------------------------------------------------------
+Poor services affecting Legal Affairs beneficiaries.
+Justice, Providing free legal assistance to individuals who cannot afford legal services under Legal Aid of Justice., 0.6775030493736267
+Legal Affairs
+--------------------------------------------------------------------
+Inadequate funding for Culture projects.
+Micro Small and Medium Enterprises, Providing resources and funding to small and medium-sized businesses under Entrepreneurship Support of Micro Small and Medium Enterprises., 0.4168701767921448
+Culture
+--------------------------------------------------------------------
+Lack of proper training programs under Heavy Industry.
+Agriculture Research and Education, Programs for training agricultural professionals under Agricultural Education of Agriculture Research and Education., 0.3992525041103363
+Heavy Industry
+--------------------------------------------------------------------
+Poor management affecting outcomes in Shipping sector.
+Unrecognized language, None, 0.0
+Shipping
+--------------------------------------------------------------------
+Delay in addressing grievances related to External Affairs.
+Administrative Reforms and PG, Mechanisms for addressing citizen complaints and grievances under Public Grievances of Administrative Reforms and PG., 0.572617769241333
+External Affairs
+--------------------------------------------------------------------
+Need for advanced technology adoption in Commerce.
+Electronics & Information Technology, Promoting digital services and infrastructure across the country under Digital India of Electronics & Information Technology., 0.5560328960418701
+Commerce
+--------------------------------------------------------------------
+Non-utilization of allocated budgets for Economic Affairs.
+Expenditure, Ensuring efficient use of allocated resources under Expenditure Management of Expenditure., 0.6068801879882812
+Economic Affairs
+--------------------------------------------------------------------
+Delay in addressing grievances related to Information and Broadcasting.
+Administrative Reforms and PG, Mechanisms for addressing citizen complaints and grievances under Public Grievances of Administrative Reforms and PG., 0.5035867094993591
+Information and Broadcasting
+--------------------------------------------------------------------
+Lack of proper training programs under Posts.
+Personnel and Training, Can be associated to the department of Personnel and Training., 0.38292816281318665
+Posts
+--------------------------------------------------------------------
